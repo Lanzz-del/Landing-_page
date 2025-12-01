@@ -1,3 +1,4 @@
+
 {
   "name": "landing-page-jefferson",
   "private": true,
@@ -9,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "lucide-react": "^0.307.0",
+    "lucide-react": "^0.307.0", // PASTIKAN ADA DI SINI
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
